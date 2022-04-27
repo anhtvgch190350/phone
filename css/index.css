@@ -1,0 +1,23 @@
+li {
+    padding-left: 20px;
+}
+
+a:hover {
+    background-color: burlywood;
+}
+
+a {
+    text-align: center;
+}
+
+header {
+    z-index: 90;
+    transition: 0.4s;
+    position: fixed;
+    width: 100%;
+}
+
+.sign-up {
+    text-decoration: none;
+    color: aliceblue;
+}
